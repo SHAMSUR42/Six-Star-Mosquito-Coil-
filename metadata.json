@@ -1,0 +1,6 @@
+{
+  "name": "Six Star Mosquito Coil",
+  "description": "Responsive website for Six Star Mosquito Coil showcasing packages, pricing tiers, key features, and comfort.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
